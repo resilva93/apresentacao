@@ -1,2 +1,6 @@
-# apresentacao
-Apresentação
+Sou Renata, profissional de Tecnologia da Informação com mais de 12 anos de experiência, iniciando minha trajetória em 2012 no suporte técnico e evoluindo para a área de Sustentação e Desenvolvimento. Atuo atualmente como líder técnica em um sistema corporativo desenvolvido em C#/.NET, sendo responsável pela distribuição de demandas, treinamentos, relacionamento direto com o cliente e implementação de ajustes e melhorias no serviço, que integra consultas externas via APIs e banco de dados SQL.
+
+Minha carreira inclui uma sólida vivência em suporte N1, N2 e N3, manutenção de hardware e software, instalação e configuração de sistemas e bancos de dados, além de forte atuação em sustentação de aplicações corporativas. Desde 2019, na Avanade, venho aprofundando minhas habilidades em C#, SQL Server, Oracle, REST APIs e Azure DevOps, participando de projetos críticos, documentando processos, otimizando fluxos de trabalho e liderando equipes de sustentação e melhorias.
+
+Tenho formação em Sistemas de Informação pela USJT, certificação AZ-900 e experiência prática com Python, WebMethods, PowerShell, C#/.NET, SQL Server, Git e Jenkins. Atualmente estou focada em aprimorar minhas competências em C# e arquitetura de APIs, com o objetivo de me tornar especialista em desenvolvimento back-end e, futuramente, atuar como Tech Lead na área.
+
